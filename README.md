@@ -13,10 +13,11 @@ Please refer to the Jupyter Notebooks and code files for detailed implementation
 ## Usage
 To run the code and reproduce the results:
 
-Set up the required dependencies as mentioned in the installation instructions.
-Follow the instructions provided in each problem's respective Jupyter Notebook.
-Execute the code cells and visualize the results.
-Refer to the generated PDF for detailed analysis, including images with predicted bounding boxes and semantic segmentation labels.
+1. Set up the required dependencies as mentioned in the installation instructions.
+2. Follow the instructions provided in each problem's respective Jupyter Notebook.
+3. Execute the code cells and visualize the results.
+4. Refer to the generated PDF for detailed analysis, including images with predicted bounding boxes and semantic segmentation labels.
+
 Feel free to explore the code, datasets, and documentation provided in this repository. If you have any questions or suggestions, please feel free to reach out. Let's unlock the power of computer vision together!
 
 ## Acknowledgments
